@@ -1,1 +1,1 @@
-# MinhaSolar---Monitoramento-de-Usinas-Fotovoltaicas
+# ConectaSolar---Monitoramento-de-Usinas-Fotovoltaicas
